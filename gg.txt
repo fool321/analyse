@@ -1,0 +1,2 @@
+MatchID,TeamID,OriginPlayerID,DestinationPlayerID,MatchPeriod,EventTime,EventSubType,EventOrigin_x,EventOrigin_y,EventDestination_x,EventDestination_y
+1,Huskies,Huskies_D1,Huskies_F1,1H,46.32350099999999,Head pass,34,97,59.0,95.0
